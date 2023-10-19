@@ -18,3 +18,9 @@ Create a [script js](main.css) file in your project folder to handle the form su
 
 # DEMO
 ![Screenshot 2023-10-19 160955](https://github.com/AshrithChandan/Registration-Form-HTML-JS-CSS/assets/96688712/670dd0e8-07d8-4f35-83bc-eeb1558a44c6)
+
+
+
+
+https://github.com/AshrithChandan/Registration-Form-HTML-JS-CSS/assets/96688712/85c9f37f-c31f-48b0-a9dd-9c2120bcd719
+
