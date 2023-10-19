@@ -10,11 +10,11 @@ Create an [index html](index.html) file in your project folder. This file will c
 
 # 3.Create CSS for Styling:
 
-Create a [styles css]() file in your project folder to style the form.
+Create a [styles css](script.js) file in your project folder to style the form.
 
 # 4.Create JavaScript for Form Handling:
 
-Create a [script js]() file in your project folder to handle the form submission and data display.
+Create a [script js](main.css) file in your project folder to handle the form submission and data display.
 
 # DEMO
 ![Screenshot 2023-10-19 160955](https://github.com/AshrithChandan/Registration-Form-HTML-JS-CSS/assets/96688712/670dd0e8-07d8-4f35-83bc-eeb1558a44c6)
