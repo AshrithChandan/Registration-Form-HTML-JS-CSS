@@ -1,0 +1,105 @@
+:root{
+    --dark: #374151;
+    --darker: #1F2937;
+    --darkest: #111827;
+    --gray: #6B7280;
+    --light:#EEE;
+    --pink:#EC4899;
+    --purple:#8B5Cf6;
+    --red:#f73d37;
+}
+body {
+    font-family: Georgia, serif;
+    background-image: linear-gradient(to right, #C33764  , #1D2671);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: linear-gradient(to right,#764BA2, #C33764, #667EEA );
+    max-width: 400px;
+    margin: 0 auto;
+    margin-left: auto;
+  margin-right: auto;
+    padding: 10px;
+    border: 1px solid linear-gradient(to right, #764BA2 , #667EEA);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+h1 {
+    text-align: center;
+    color: #0f1113;
+    font-size: 2.5rem;
+}
+
+h2 {
+    text-align: center;
+    color: #0f1113;
+    font-size: 2rem;
+}
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #830e0e;
+    border-radius: 4px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#registrationData {
+    margin-top: 20px;
+    padding: 19px;
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Georgia, serif;
+}
+
+
+/* Add some color to the labels and buttons */
+label[for="firstName"] {
+    color: #000;
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+}
+
+label[for="lastName"] {
+    color: #000;
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+}
+
+label[for="email"] {
+    color: #000;
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+}
+
+label[for="password"] {
+    color: #000;
+    font-family: Georgia, serif;
+    font-size: 1.2rem;
+}
